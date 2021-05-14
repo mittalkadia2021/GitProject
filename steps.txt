@@ -1,0 +1,23 @@
+Steps to create new repository
+1. create folder
+2. right click and choose git bash here
+3. enter command "git init" it should initialize repository 
+4. git config --local user.name "example.name"
+5. git config --local user.email "example@email.com"
+
+6. start adding files or directory 
+7. once ready to commit use command "git add ." to change files to green (staged)
+8. commit using command "git commit -m 'your message'"
+
+9. create repository on git hub account if not already by clicking + icon on top right corner
+10. git name to repository and click on create repository
+11. copy line which looks like "git remote add orgin git:// " and paste on git bash
+12. use command "git push origin main" to push your change, you will be asked to enter username and password
+13. go to git hub and verify 
+
+
+to add another commit follow steps 
+1. modify file or add new files 
+2. use command "git add ." 
+3. use command "git commit -m 'your friendly message'"
+4. use command "git push origin main"
