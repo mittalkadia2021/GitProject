@@ -1,5 +1,5 @@
 Steps to create new repository
-1. create folder
+1. create new folder
 2. right click and choose git bash here
 3. enter command "git init" it should initialize repository 
 4. git config --local user.name "example.name"
